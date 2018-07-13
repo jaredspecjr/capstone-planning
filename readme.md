@@ -40,7 +40,7 @@ More Features If minimum requirements are met:
   Boss battles
 
   Add items like potions or weapons to amplify attack
-  
+
 
   ability to level up
 
@@ -48,12 +48,34 @@ I wish I had more time to study react before starting a new project from scratch
 
 
 
+
+
+##Notes:
+should the movement be based on what arrow you click or should the user see options of which way they are allowed to go? could the user select multiple options in a single room component?
+
+should health reside in app? how does an enemy component damage the user.
+
+user stories
+
+user sees room or text description of what is int he room.
+user chooses an action from a list of options.
+user selects room2. user traverses to room2.
+user begins to move to room two but encounters an enemy.
+user selects attack and enemy loses health.
+user takes damage from enemy after ending their turn.
+user defeats enemy and proceeds to next room.
+
+##State
+
+where should state reside for these components?
+
+users health state should stay in App. or a redux store?
+
 #Component tree
 
-
-Notes: should the movement be based on what arrow you click or should the user see options of which way they are allowed to go? could the user select multiple options in a single room component? example menu selection
-
 App
+-user
+  ~manageHealth/damage?
 -component container
   ~room1
   ~room2
