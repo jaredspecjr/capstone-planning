@@ -69,6 +69,7 @@ user defeats enemy and proceeds to next room.
 
 where should state reside for these components?
 
+
 users health state should stay in App. or a redux store?
 
 #Component tree
