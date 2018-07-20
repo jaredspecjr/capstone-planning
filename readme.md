@@ -1,7 +1,7 @@
 07/20/18 notes:
 created initial app and environment. will ad a link to repo here:
 
-
+created components in game repo, made a visual spot for the home page of the app.
 
 
 
