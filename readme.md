@@ -1,5 +1,5 @@
 07/20/18 notes:
-created initial app and environment. will ad a link to repo here: https://github.com/jaredspecjr/game
+##created initial app and environment. will ad a link to repo here: https://github.com/jaredspecjr/game
 
 created components in game repo, made a visual spot for the home page of the app.
 
@@ -7,10 +7,12 @@ having issues getting routers to work
 
 decided that create react app is not for me and am scrapping the current project. I'll be spending my time setting up my environment. will add pictures and keep old repo to account for work done on that.
 
-I will also provide a link to the new repo here:
+##I will also provide a link to the new repo here: https://github.com/jaredspecjr/Capstone-game
 
 
 still working on getting routing to work. will post pictures of written notes regarding where state may live.
+
+Routing now works and has images for both rooms. 
 
 <!-- VV LAST FRIDAYS WORK VV -->
 Spent morning thinking about capstone ideas and I think I am settling with a choose your own adventure game. will spend more time white boarding and sketching up ideas.
