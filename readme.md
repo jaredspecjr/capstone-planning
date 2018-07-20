@@ -3,6 +3,10 @@ created initial app and environment. will ad a link to repo here:
 
 created components in game repo, made a visual spot for the home page of the app.
 
+having issues getting routers to work
+
+decided that create react app is not for me and am scrapping the current project. I'll be spending my time setting up my environment. will add pictures and keep old repo to account for work done on that. I will also provide a link to the new repo.
+
 
 
 Spent morning thinking about capstone ideas and I think I am settling with a choose your own adventure game. will spend more time white boarding and sketching up ideas.
